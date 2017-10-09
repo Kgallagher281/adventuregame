@@ -1,0 +1,11 @@
+body {
+  background-color: orange; }
+
+#ball1 {
+  background-color: green;
+  color: black; }
+  #ball1 #myButton {
+    color: black;
+    font-color: white; }
+
+/*# sourceMappingURL=main.css.map */
